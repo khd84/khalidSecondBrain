@@ -1,0 +1,70 @@
+Learn More on Pipeline and Security
+ASP.NET MVC Pipeline
+
+MVC is not a programming language, it is simply a design pattern which is used to develop applications. MVC design pattern was very popular for development of Graphical User Interface (GUIs) applications, but now it is also popular in the designing of web applications, mobile and desktop etc. Many programming languages uses this pattern but we’ll discuss this in the context of ASP.NET.
+
+Read more
+
+ASP.NET MVC Filters
+
+ASP.NET MVC Filter is a custom class where you can write custom logic to execute before or after an action method executes. Filters can be applied to an action method or controller in a declarative or programmatic way. Declarative means by applying a filter attribute to an action method or controller class and programmatic means by implementing a corresponding interface.
+
+Read more
+
+Filters Configurations and Execution
+
+In ASP.NET MVC, a user request is routed to the appropriate controller and action method. However, there may be circumstances where you want to execute some logic before or after an action method executes. ASP.NET MVC provides filters for this purpose.
+
+Read more
+
+Creating Custom ASP.NET MVC Filters
+
+You can create custom filter attributes by implementing an appropriate filter interface for which you want to create a custom filter and derive the 
+FilterAttribute
+ class to use that class as an attribute.
+
+Read more
+
+Security : Forms Authentication
+
+Whenever we develop a web application three things are common there - Sign up, Sign in, and Log out. orms Authentication is available in System.Web.Security namespace
+
+Read more
+
+Creating User Login Flow
+
+The ASP.NET MVC framework was created to support pattern-based software development. In other words the framework was designed to make it easier to implement software design principles and patterns when building web applications. MVC model contains all of an application's logic that is not contained in a View or Controller. MVC view contains HTML markup and view logic. MVC controller contains control-flow logic. An MVC controller interacts with MVC Models and Views to control the flow of application execution.
+
+Read more
+
+Accessing Logged In User Details
+
+In this video, we will learn to access Logged In User Details.
+
+Refer to the link below for more details.
+
+Read more
+
+Creating Base Controller
+
+The Controller in MVC architecture handles any incoming URL request. The Controller is a class, derived from the base class System.Web.Mvc.Controller. Controller class contains public methods called Action methods. Controller and its action method handles incoming browser requests, retrieves necessary model data and returns appropriate responses.
+
+Read more
+
+https://www.c-sharpcorner.com/article/mvc-architecture-its-pipeline4/
+
+https://www.tutorialsteacher.com/mvc/filters-in-asp.net-mvc
+
+https://www.tutorialsteacher.com/mvc/filters-in-asp.net-mvc
+
+https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.filterattribute?view=aspnet-mvc-5.2
+
+https://www.tutorialsteacher.com/articles/create-custom-filters
+
+https://www.c-sharpcorner.com/article/forms-authentication-in-mvc/
+
+https://www.c-sharpcorner.com/UploadFile/cd3310/using-mvc-Asp-Net-tools-create-simple-login-form/
+
+https://learn.microsoft.com/en-us/aspnet/mvc/overview/security/create-an-aspnet-mvc-5-web-app-with-email-confirmation-and-password-reset
+
+https://www.tutorialsteacher.com/mvc/mvc-controller
