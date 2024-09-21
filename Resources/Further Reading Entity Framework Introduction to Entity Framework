@@ -1,0 +1,58 @@
+Further Reading Entity Framework
+Introduction to Entity Framework
+
+Entity Framework (EF) Core is a lightweight, extensible, open source and cross-platform version of the popular Entity Framework data access technology.
+
+EF Core can serve as an object-relational mapper (O/RM), which:
+
+Enables .NET developers to work with a database using .NET objects.
+
+Eliminates the need for most of the data-access code that typically needs to be written.
+
+Read more
+
+Creating Database Using Code First
+
+In this video, we will learn to Creating Database Using Code First.
+
+Read more
+
+Database CRUD Operations
+
+CRUD Operation means we need to perform Create, Update, Delete, and Retrieve Operations. In order to perform the Insert, Update, and Delete operations in Entity Framework we have two persistence scenarios i.e. connected and disconnected.
+
+In the connected scenario, the same DbContext instance is used for retrieving and saving the entities, whereas this is different in the disconnected scenario
+
+Read more
+
+Calling Stored Procedure and Functions
+
+Entrity Framework
+ is a data access layer ORM library. Entity Framework (EF) uses ADO.NET for data access and connectivity and support LINQ as the language to read and write data back to a data source. It was originally shipped as a part of .NET Framework but recently, Entity Framework 6 or later is its own standalone project available on Github. The latest version of EF is EF Core. EF Core support connections with several databases, including 
+SQL Server
+, SQL Azure, SQLite, MySQL, PostgreSQL, and Azure Cosmos DB.
+
+When building data-driven software applications, you may want to call an existing stored procedure in Entity Framework and there are different ways to do that. 
+
+Read more
+
+Listing, Paging, Sorting using WebGrid
+
+In this video, we will learn about Listing, Paging, Sorting using WebGrid
+
+Read more
+
+https://learn.microsoft.com/en-us/ef/core/
+
+https://www.c-sharpcorner.com/article/create-a-new-database-using-code-first-in-entity-framework/
+
+https://dotnettutorials.net/lesson/crud-operations-in-entity-framework/
+
+https://www.c-sharpcorner.com/topics/entity-framework
+
+https://www.c-sharpcorner.com/topics/SQL-Server
+
+https://www.c-sharpcorner.com/UploadFile/ff2f08/call-store-procedure-from-entity-framework/
+
+https://www.c-sharpcorner.com/blogs/mvc-searching-sorting-and-paging-in-web-grid
+
